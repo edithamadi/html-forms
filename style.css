@@ -98,3 +98,134 @@ body {
     align-items: center;
   }
   
+   /* The logo link part */
+  
+   .logolink {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .logolink a {
+    color: inherit;
+  }
+  
+  button i {
+    margin-right: 5px;
+  }
+  
+  .ip-group {
+    margin-top: 7px;
+    font-size: 18px;
+    letter-spacing: 0.05em;
+    color: #585a5e;
+  }
+  
+  .ip-group i {
+    margin: 0 3px 0 5px;
+    font-size: 1.25em;
+  }
+  
+  .fa-envira {
+    color: #3ea7a4;
+  }
+  
+  .fa-quinscape {
+    color: #4ea11e;
+  }
+  
+  .fa-check-circle {
+    color: #d63b1f;
+  }
+  
+/* the module */
+  
+.modules {
+    width: 320px;
+    padding: 15px 30px;
+    background-color: white;
+    border: 1px solid #c7c7c7;
+    border-radius: 2px 2px 0 0;
+    border-bottom: none;
+  }
+  
+  .createaccount {
+    text-align: center;
+  }
+  
+  .createaccount h1 {
+    margin: 0;
+    margin: 20px 0;
+    font-weight: normal;
+    font-size: 1.75em;
+  }
+  
+  .createaccount p {
+    margin-bottom: 3px;
+  }
+  
+  .createaccount a {
+    font-size: 12px;
+  }
+  
+  label {
+    display: block;
+    margin: 20px 0 10px 0;
+  }
+  
+  .inputsection {
+    margin-bottom: 37.25px;
+  }
+  
+  input {
+    height: 29px;
+    width: 98%;
+    border: 1px solid #c1c5c8;
+    border-radius: 2px;
+  }
+  
+  .phone-warn {
+    margin-top: 5px;
+    font-size: 10px;
+  }
+  
+  button[type="submit"] {
+    margin: 0 0 30px 0;
+    width: 100%;
+    padding: 12px 0;
+    font-size: 16px;
+    border: none;
+    border: 1px solid #4c4c4c;
+    border-radius: 3px;
+  }
+  
+  .inputsection:last-of-type {
+    position: relative;
+  }
+  
+  .fa-unlock-alt {
+    position: absolute;
+    right: 15px;
+    bottom: 5px;
+    font-size: 20px;
+    color: #c5c5c5;
+  }
+  
+  .terms {
+    margin: 10px auto;
+    line-height: 1.75em;
+    text-align: center;
+    font-size: 12px;
+    font-style: italic;
+    color: #757575;
+  }
+  
+  .last-div {
+    width: 300px;
+    padding: 10px 40px;
+    background-color: #eceef1;
+    border: 1px solid #c7c7c7;
+    border-top: none;
+    border-radius: 0 0 2px 2px;
+    font-size: 10px;
+    color: #8d9096;
+  }
